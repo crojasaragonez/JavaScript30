@@ -6,24 +6,38 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-| Title  | Solution | Title  | Solution |
-| :------------- | :------------- | :------------- | :------------- |
-| 01 - JavaScript Drum Kit              | [here](01 - JavaScript Drum Kit/index-FINISHED.html) | 16 - Mouse Move Shadow                             |  |
-| 02 - JS + CSS Clock                   | [here]() | 17 - Sort Without Articles                         |  |
-| 03 - CSS Variables                    | [here]() | 18 - Adding Up Times with Reduce                   |  |
-| 04 - Array Cardio Day 1               | [here]() | 19 - Webcam Fun                                    |  |
-| 05 - Flex Panel Gallery               | [here]() | 20 - Speech Detection                              |  |
-| 06 - Type Ahead                       | [here]() | 21 - Geolocation                                   |  |
-| 07 - Array Cardio Day 2               | [here]() | 22 - Follow Along Link Highlighter                 |  |
-| 08 - Fun with HTML5 Canvas            | [here]() | 23 - Speech Synthesis                              |  |
-| 09 - Dev Tools Domination             | [here]() | 24 - Sticky Nav                                    |  |
-| 10 - Hold Shift and Check Checkboxes  | [here]() | 25 - Event Capture, Propagation, Bubbling and Once |  |
-| 11 - Custom Video Player              | [here]() | 26 - Stripe Follow Along Nav                       |  |
-| 12 - Key Sequence Detection           | [here]() | 27 - Click and Drag                                |  |
-| 13 - Slide in on Scroll               | [here]() | 28 - Video Speed Controller                        |  |
-| 14 - JavaScript References VS Copying | [here]() | 29 - Countdown Timer                               |  |
-| 15 - LocalStorage                     | [here]() | 30 - Whack A Mole                                  |  |
-
+| Title  | Solution |
+| :------------- | :------------- |
+| 01 - JavaScript Drum Kit                           | <a href="https://crojasaragonez.github.io/JavaScript30/01 - JavaScript Drum Kit/index-FINISHED.html" target="_blank">here</a> |
+| 02 - JS + CSS Clock                                | <a href="https://crojasaragonez.github.io/JavaScript30/02 - JS + CSS Clock/index-FINISHED.html" target="_blank">here</a> |
+| 03 - CSS Variables                                 | <a href="https://crojasaragonez.github.io/JavaScript30/03 - CSS Variables/index-FINISHED.html" target="_blank">here</a> |
+| 04 - Array Cardio Day 1                            | <a href="https://crojasaragonez.github.io/JavaScript30/04 - Array Cardio Day 1/index-FINISHED.html" target="_blank">here</a> |
+| 05 - Flex Panel Gallery                            | <a href="https://crojasaragonez.github.io/JavaScript30/05 - Flex Panel Gallery/index-FINISHED.html" target="_blank">here</a> |
+| 06 - Type Ahead                                    | <a href="https://crojasaragonez.github.io/JavaScript30/06 - Type Ahead/index-FINISHED.html" target="_blank">here</a> |
+| 07 - Array Cardio Day 2                            | <a href="https://crojasaragonez.github.io/JavaScript30/07 - Array Cardio Day 2/index-FINISHED.html" target="_blank">here</a> |
+| 08 - Fun with HTML5 Canvas                         | <a href="https://crojasaragonez.github.io/JavaScript30/08 - Fun with HTML5 Canvas/index-FINISHED.html" target="_blank">here</a> |
+| 09 - Dev Tools Domination                          | <a href="https://crojasaragonez.github.io/JavaScript30/09 - Dev Tools Domination/index-FINISHED.html" target="_blank">here</a> |
+| 10 - Hold Shift and Check Checkboxes               | <a href="https://crojasaragonez.github.io/JavaScript30/10 - Hold Shift and Check Checkboxes/index-FINISHED.html" target="_blank">here</a> |
+| 11 - Custom Video Player                           | <a href="https://crojasaragonez.github.io/JavaScript30/11 - Custom Video Player/index.html" target="_blank">here</a> |
+| 12 - Key Sequence Detection                        | <a href="https://crojasaragonez.github.io/JavaScript30/12 - Key Sequence Detection/index-FINISHED.html" target="_blank">here</a> |
+| 13 - Slide in on Scroll                            | <a href="https://crojasaragonez.github.io/JavaScript30/13 - Slide in on Scroll/index-FINISHED.html" target="_blank">here</a> |
+| 14 - JavaScript References VS Copying              | <a href="https://crojasaragonez.github.io/JavaScript30/14 - JavaScript References VS Copying/index-FINISHED.html" target="_blank">here</a> |
+| 15 - LocalStorage                                  | <a href="https://crojasaragonez.github.io/JavaScript30/15 - LocalStorage/index-FINISHED.html" target="_blank">here</a> |
+| 16 - Mouse Move Shadow                             | <a href="https://crojasaragonez.github.io/JavaScript30/16 - Mouse Move Shadow/index-FINISHED.html" target="_blank">here</a> |
+| 17 - Sort Without Articles                         | <a href="https://crojasaragonez.github.io/JavaScript30/17 - Sort Without Articles/index-FINISHED.html" target="_blank">here</a> |
+| 18 - Adding Up Times with Reduce                   | <a href="https://crojasaragonez.github.io/JavaScript30/18 - Adding Up Times with Reduce/index-FINISHED.html" target="_blank">here</a> |
+| 19 - Webcam Fun                                    | <a href="https://crojasaragonez.github.io/JavaScript30/19 - Webcam Fun/index-FINISHED.html" target="_blank">here</a> |
+| 20 - Speech Detection                              | <a href="https://crojasaragonez.github.io/JavaScript30/20 - Speech Detection/index-FINISHED.html" target="_blank">here</a> |
+| 21 - Geolocation                                   | <a href="https://crojasaragonez.github.io/JavaScript30/21 - Geolocation/index-FINISHED.html" target="_blank">here</a> |
+| 22 - Follow Along Link Highlighter                 | <a href="https://crojasaragonez.github.io/JavaScript30/22 - Follow Along Link Highlighter/index-FINISHED.html" target="_blank">here</a> |
+| 23 - Speech Synthesis                              | <a href="https://crojasaragonez.github.io/JavaScript30/23 - Speech Synthesis/index-FINISHED.html" target="_blank">here</a> |
+| 24 - Sticky Nav                                    | <a href="https://crojasaragonez.github.io/JavaScript30/24 - Sticky Nav/index-FINISHED.html" target="_blank">here</a> |
+| 25 - Event Capture, Propagation, Bubbling and Once | <a href="https://crojasaragonez.github.io/JavaScript30/25 - Event Capture, Propagation, Bubbling and Once/index-FINISHED.html" target="_blank">here</a> |
+| 26 - Stripe Follow Along Nav                       | <a href="https://crojasaragonez.github.io/JavaScript30/26 - Stripe Follow Along Nav/index-FINISHED.html" target="_blank">here</a> |
+| 27 - Click and Drag                                | <a href="https://crojasaragonez.github.io/JavaScript30/27 - Click and Drag/index-FINISHED.html" target="_blank">here</a> |
+| 28 - Video Speed Controller                        | <a href="https://crojasaragonez.github.io/JavaScript30/28 - Video Speed Controller/index-FINISHED.html" target="_blank">here</a> |
+| 29 - Countdown Timer                               | <a href="https://crojasaragonez.github.io/JavaScript30/29 - Countdown Timer/index-FINISHED.html" target="_blank">here</a> |
+| 30 - Whack A Mole                                  | <a href="https://crojasaragonez.github.io/JavaScript30/30 - Whack A Mole/index-FINISHED.html" target="_blank">here</a> |
 
 ## Community #JavaScript30 Content
 
